@@ -4,6 +4,8 @@
 
 [Website](https://www.skavio.eu/?utm_source=github&utm_medium=profile&utm_campaign=usdc_launch_20261023) · [Payment Proof](https://www.skavio.eu/proof/?utm_source=github&utm_medium=profile&utm_campaign=usdc_launch_20261023) · [x402 APIs](https://www.skavio.eu/x402/?utm_source=github&utm_medium=profile&utm_campaign=usdc_launch_20261023) · [Developer docs](https://www.skavio.eu/x402/docs/?utm_source=github&utm_medium=profile&utm_campaign=usdc_launch_20261023)
 
+**Try Payment Proof without creating an account:** [interactive 60-second simulated payment demo](https://www.skavio.eu/proof/demo?utm_source=github&utm_medium=profile&utm_campaign=usdc_nosignup_demo_oct26). No wallet or real funds required.
+
 ## Accept native USDC for a business — without Stripe
 
 **[Skavio Payment Proof](https://www.skavio.eu/proof/?utm_source=github&utm_medium=profile&utm_campaign=usdc_launch_20261023)** helps independent merchants create payment links and sales invoices, check on-chain settlement and export business payment evidence. Merchants retain control of their receiving wallets. Trial access is **7 days**, with paid plans starting at **9 native Circle USDC / 30 days** and manual wallet-approved renewals.
