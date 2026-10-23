@@ -4,6 +4,8 @@
 
 [Website](https://www.skavio.eu/?utm_source=github&utm_medium=profile&utm_campaign=usdc_launch_20261023) · [Payment Proof](https://www.skavio.eu/proof/?utm_source=github&utm_medium=profile&utm_campaign=usdc_launch_20261023) · [x402 APIs](https://www.skavio.eu/x402/?utm_source=github&utm_medium=profile&utm_campaign=usdc_launch_20261023) · [Developer docs](https://www.skavio.eu/x402/docs/?utm_source=github&utm_medium=profile&utm_campaign=usdc_launch_20261023)
 
+**One-time option:** [Verify one USDC payment for **0.25 USDC** and download the PDF proof](https://www.skavio.eu/proof/?utm_source=github&utm_medium=profile&utm_campaign=proof_oneoff_025_oct26). No monthly subscription required. A 7-day free trial and recurring merchant plans are also available.
+
 **Try Payment Proof without creating an account:** [interactive 60-second simulated payment demo](https://www.skavio.eu/proof/demo?utm_source=github&utm_medium=profile&utm_campaign=usdc_nosignup_demo_oct26). No wallet or real funds required.
 
 ## Accept native USDC for a business — without Stripe
